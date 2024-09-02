@@ -45,7 +45,7 @@ const headerText = '10KAI is on pause this year, but we\'ll be back.' // One-lin
 const descriptionText = '300 paid internships later, we\'ve learnt a lot, and we\'ve got some refining to do. Returning for a new programme in 2025.' // More detailed description of what you will offer customers
 
 const headerTextSize = '66' // Default size is 66
-const descriptionTextSize = '32' // Default size is 42
+const descriptionTextSize = '32' // Default size is 32
 
 // 5. Update contact email:
 const contactEmail = 'sami@10000internsfoundation.com'

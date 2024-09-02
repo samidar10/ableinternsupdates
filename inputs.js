@@ -1,4 +1,4 @@
-'/* 
+/* 
 Step 7: Connecting EmailOctopus and Calendly to your website
 - Add your EmailOctopus and Calendly links between the quotation marks '' below
 */

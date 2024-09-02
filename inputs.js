@@ -41,14 +41,14 @@ const tiktokLink = 'https://www.tiktok.com'
 const discordLink = 'https://discord.com'
 
 // 4. Update header and description texts:
-const headerText = '10KAI is on pause. 300 internships' // One-line description of what you will offer customers
-const descriptionText = 'Watch anywhere. Cancel at any time.' // More detailed description of what you will offer customers
+const headerText = '10KAI is on pause this year. 300 paid internships to date. We've learnt a lot, and we've got some refining to do.' // One-line description of what you will offer customers
+const descriptionText = 'Returning 2025/26.' // More detailed description of what you will offer customers
 
 const headerTextSize = '66' // Default size is 66
 const descriptionTextSize = '42' // Default size is 42
 
 // 5. Update contact email:
-const contactEmail = 'example@notflix.com'
+const contactEmail = 'sami@10000internsfoundation.com'
 
 
 

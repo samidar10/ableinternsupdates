@@ -28,7 +28,7 @@ Black HEX color code: #000000
 const companyName = 'ABLE INTERNS'
 const companyNameColor = '#3FC28E'
 
-const formButtonBackgroundColor = '#E50914'
+const formButtonBackgroundColor = '#3FC28E'
 const formButtonTextColor = '#FFFFFF' // Make this either black (#000000) or white (#FFFFFF) depending on what is easiest to read on your button color of choice
 
 // 3. Update social media links:

@@ -62,7 +62,7 @@ const formTextColor = '#000000'
 const socialMediaCallToAction = 'Find us on social media'
 
 // Waitlist: Update the call to action with your own
-const waitlistCallToAction = 'Join the wait-list'
+const waitlistCallToAction = 'Join the waitlist'
 
 // Calendly: Update the calls to action with your own
 const meetingCallToAction = 'Talk to us'

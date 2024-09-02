@@ -41,7 +41,7 @@ const tiktokLink = 'https://www.tiktok.com'
 const discordLink = 'https://discord.com'
 
 // 4. Update header and description texts:
-const headerText = '10KAI is on pause this year, but we'll be back.' // One-line description of what you will offer customers
+const headerText = '10KAI is on pause this year, but we\'ll be back.' // One-line description of what you will offer customers
 const descriptionText = '300 paid internships later, we\'ve learnt a lot, and we\'ve got some refining to do. Returning for a new programme in 2025/26.' // More detailed description of what you will offer customers
 
 const headerTextSize = '66' // Default size is 66

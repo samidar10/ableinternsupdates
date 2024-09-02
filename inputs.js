@@ -20,30 +20,35 @@ Step 9: Website Content and Branding
 - Below you can see the HEX codes for the colors white and black
 
 White HEX color code: #FFFFFF
-Green HEX color code: #3FC28E
+Black HEX color code: #000000
 */
 
 // HIGH PRIORITY CHANGES
 // 2. Change project name and colours:
-const companyName = 'ABLE INTERNS'
-const companyNameColor = '#3FC28E'
+const companyName = 'NOTFLIX'
+const companyNameColor = '#E50914'
 
-const formButtonBackgroundColor = '#3FC28E'
+const formButtonBackgroundColor = '#E50914'
 const formButtonTextColor = '#FFFFFF' // Make this either black (#000000) or white (#FFFFFF) depending on what is easiest to read on your button color of choice
 
 // 3. Update social media links:
-const instagramLink = 'https://instagram.com/10000ableinterns'
-const linkedinLink = 'https://www.linkedin.com/company/able-interns/posts/?feedView=all'
+const facebookLink = 'https://facebook.com'
+const instagramLink = 'https://instagram.com'
+const xLink = 'https://x.com/lucaducca'
+const linkedinLink = 'https://linkedin.com'
+const youtubeLink = 'https://www.youtube.com'
+const tiktokLink = 'https://www.tiktok.com'
+const discordLink = 'https://discord.com'
 
 // 4. Update header and description texts:
-const headerText = '10KAI is on pause this year. 300 paid internships to date. We've learnt a lot, and we've got some refining to do.' // One-line description of what you will offer customers
-const descriptionText = 'Exciting news and more programming returning in 2025/26.' // More detailed description of what you will offer customers
+const headerText = 'Unlimited films, TV programmes and more' // One-line description of what you will offer customers
+const descriptionText = 'Watch anywhere. Cancel at any time.' // More detailed description of what you will offer customers
 
 const headerTextSize = '66' // Default size is 66
 const descriptionTextSize = '42' // Default size is 42
 
 // 5. Update contact email:
-const contactEmail = 'sami@10000internsfoundation.com'
+const contactEmail = 'example@notflix.com'
 
 
 
@@ -57,7 +62,7 @@ const formTextColor = '#000000'
 const socialMediaCallToAction = 'Find us on social media'
 
 // Waitlist: Update the call to action with your own
-const waitlistCallToAction = 'Join the waitlist'
+const waitlistCallToAction = 'Join the wait-list'
 
 // Calendly: Update the calls to action with your own
 const meetingCallToAction = 'Talk to us'
@@ -71,9 +76,13 @@ const formBackgroundColor = '#FFFFFF'
 const formBorderColor = '#CCC'
 
 // Social media: Change the colors if they do not fit with your new background color
+const facebookLogoColor = '#4267B2'
 const instagramLogoColor = '#E1306C'
+const xLogoColor = '#000000'
 const linkedinLogoColor = '#0077b5'
-
+const youtubeLogoColor = '#FF0000'
+const tiktokLogoColor = '#000000'
+const discordLogoColor = '#5865F2'
 
 
 

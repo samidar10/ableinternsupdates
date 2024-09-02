@@ -1,4 +1,4 @@
-/* 
+'/* 
 Step 7: Connecting EmailOctopus and Calendly to your website
 - Add your EmailOctopus and Calendly links between the quotation marks '' below
 */
@@ -42,7 +42,7 @@ const discordLink = 'https://discord.com'
 
 // 4. Update header and description texts:
 const headerText = '10KAI is on pause this year. 300 paid internships to date.' // One-line description of what you will offer customers
-const descriptionText = 'Returning 2025/26.' // More detailed description of what you will offer customers
+const descriptionText = 'We've learnt a lot, and we've got some refining to do. Returning 2025/26.' // More detailed description of what you will offer customers
 
 const headerTextSize = '66' // Default size is 66
 const descriptionTextSize = '42' // Default size is 42

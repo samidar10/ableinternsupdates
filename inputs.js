@@ -25,7 +25,7 @@ Black HEX color code: #000000
 
 // HIGH PRIORITY CHANGES
 // 2. Change project name and colours:
-const companyName = 'NOTFLIX'
+const companyName = 'ABLE INTERNS'
 const companyNameColor = '#E50914'
 
 const formButtonBackgroundColor = '#E50914'

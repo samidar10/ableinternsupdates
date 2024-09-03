@@ -48,7 +48,7 @@ const headerTextSize = '66' // Default size is 66
 const descriptionTextSize = '32' // Default size is 32
 
 // 5. Update contact email:
-const contactEmail ='sami@10000internsfoundation.com (Sami Dar, co-founder)'
+const contactEmail ='sami@10000internsfoundation.com'
 
 
 

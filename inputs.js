@@ -65,7 +65,7 @@ const socialMediaCallToAction = 'Find us on social media'
 const waitlistCallToAction = 'Join the waitlist'
 
 // Calendly: Update the calls to action with your own
-const meetingCallToAction = 'Our work so far'
+const meetingCallToAction = 'Our work so far:'
 const meetingButtonText = 'Take me to 10,000 Interns Foundation'
 
 

@@ -32,13 +32,13 @@ const formButtonBackgroundColor = '#3FC28E'
 const formButtonTextColor = '#FFFFFF' // Make this either black (#000000) or white (#FFFFFF) depending on what is easiest to read on your button color of choice
 
 // 3. Update social media links:
-const facebookLink = 'https://facebook.com'
-const instagramLink = 'https://instagram.com'
-const xLink = 'https://x.com/lucaducca'
-const linkedinLink = 'https://linkedin.com'
-const youtubeLink = 'https://www.youtube.com'
-const tiktokLink = 'https://www.tiktok.com'
-const discordLink = 'https://discord.com'
+const facebookLink = ''
+const instagramLink = ''
+const xLink = ''
+const linkedinLink = ''
+const youtubeLink = ''
+const tiktokLink = ''
+const discordLink = ''
 
 // 4. Update header and description texts:
 const headerText = '10KAI is on pause this year, but we\'ll be back.' // One-line description of what you will offer customers
@@ -48,7 +48,7 @@ const headerTextSize = '66' // Default size is 66
 const descriptionTextSize = '32' // Default size is 32
 
 // 5. Update contact email:
-const contactEmail = 'sami@10000internsfoundation.com'
+const contactEmail = 'Reach out to our co-founder: sami@10000internsfoundation.com'
 
 
 

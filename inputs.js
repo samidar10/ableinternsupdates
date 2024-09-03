@@ -4,7 +4,7 @@ Step 7: Connecting EmailOctopus and Calendly to your website
 */
 const emailOctopusScript = '<script async src="https://eocampaign1.com/form/dc180a9e-4040-11ef-be95-d31e7313d676.js" data-form="dc180a9e-4040-11ef-be95-d31e7313d676"></script>'
 
-const calendlyLink = 'https://calendly.com/joebloggs619/30min'
+const calendlyLink = 'https://10000internsfoundation.com/'
 
 
 /*
@@ -48,7 +48,7 @@ const headerTextSize = '66' // Default size is 66
 const descriptionTextSize = '32' // Default size is 32
 
 // 5. Update contact email:
-const'Reach out to our co-founder: sami@10000internsfoundation.com'
+const contactEmail ='sami@10000internsfoundation.com (Sami Dar, co-founder)'
 
 
 
@@ -65,8 +65,8 @@ const socialMediaCallToAction = 'Find us on social media'
 const waitlistCallToAction = 'Join the waitlist'
 
 // Calendly: Update the calls to action with your own
-const meetingCallToAction = 'Talk to us'
-const meetingButtonText = 'Schedule a meeting'
+const meetingCallToAction = 'What have we been up to?'
+const meetingButtonText = '10,000 Interns Foundation'
 
 
 

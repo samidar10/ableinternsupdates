@@ -66,7 +66,7 @@ const waitlistCallToAction = 'Join the waitlist'
 
 // Calendly: Update the calls to action with your own
 const meetingCallToAction = 'Our work so far:'
-const meetingButtonText = 'Take me to 10,000 Interns Foundation'
+const meetingButtonText = 'Take me to The 10,000 Interns Foundation'
 
 
 

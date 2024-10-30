@@ -2,7 +2,7 @@
 Step 7: Connecting EmailOctopus and Calendly to your website
 - Add your EmailOctopus and Calendly links between the quotation marks '' below
 */
-const emailOctopusScript = '<<script async src="https://eocampaign1.com/form/9756ef50-69ef-11ef-8bb5-57d0aac6901b.js" data-form="9756ef50-69ef-11ef-8bb5-57d0aac6901b"></script>'
+const emailOctopusScript = '<script async src="https://eocampaign1.com/form/883f739e-96c6-11ef-b044-97ac65458fd5.js" data-form="883f739e-96c6-11ef-b044-97ac65458fd5"></script>'
 
 const calendlyLink = 'https://10000internsfoundation.com'
 

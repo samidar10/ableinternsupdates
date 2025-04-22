@@ -25,7 +25,7 @@ Black HEX color code: #000000
 
 // HIGH PRIORITY CHANGES
 // 2. Change project name and colours:
-const companyName = 'ABL'
+const companyName = '10,000 ABLE INTERNS'
 const companyNameColor = '#3FC28E'
 
 const formButtonBackgroundColor = '#3FC28E'
